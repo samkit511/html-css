@@ -23,7 +23,10 @@ button{
 }
 footer{
     background-color: black;
-    height: 25px;
+    height: 20px;
+    color: white;
+    padding-top: 5px;
+    text-align: center;
 }
 .content{
     height: 495px;
