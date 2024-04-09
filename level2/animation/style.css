@@ -1,1 +1,22 @@
-
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+.box{
+    margin: 10%;
+    border: 5px gainsboro solid;
+    border-top: 5px  dotted rgb(46, 34, 34);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    animation: spinanimation 3s ease-in-out 1s infinite         normal;
+}
+@keyframes spinanimation {
+    form {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
