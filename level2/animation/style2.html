@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+.box{
+    margin: 10%;
+    border: 5px gainsboro solid;
+    border-top: 5px  dotted rgb(46, 34, 34);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    animation: spinanimation 4s ease-in-out 1s infinite         normal;
+}
+@keyframes spinanimation {
+    form {
+        transform: rotate(0deg);
+        border-top: 5px  dotted rgb(46, 34, 34);
+    }
+    to {
+        transform: rotate(360deg);
+        border-left:5px solid rgb(46, 34, 34);
+        border-bottom:5px solid rgb(46, 34, 34);
+        border-right:5px solid rgb(46, 34, 34);
+        border-top:5px solid rgb(46, 34, 34);
+    }
+}
