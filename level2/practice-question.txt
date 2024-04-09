@@ -1,0 +1,29 @@
+Div Manipulation:
+Create a layout where three div elements are stacked vertically. Implement functionality such that when one div is clicked, its background color changes, and the other divs retain their original background color.
+
+Animation:
+Design a CSS animation where a button grows in size gradually when hovered over, and returns to its original size when the mouse moves away.
+
+Flexbox Playground:
+Build a flexbox-based grid system to display a gallery of images. Ensure that the images adjust their sizes responsively based on the screen width.
+
+Media Queries:
+Develop a responsive webpage layout using media queries. The layout should change its appearance significantly when viewed on screens smaller than 768 pixels wide, adjusting font sizes, margins, and padding accordingly.
+
+Nav-bar Flex Property:
+Create a navigation bar using flexbox properties. Ensure that the navigation items are evenly spaced horizontally across the bar, with appropriate padding and margins.
+
+Div Alignment:
+Build a layout where two div elements are side by side, each taking up 50% of the container's width. Implement CSS to vertically align the contents of both divs to the middle.
+
+Transitions:
+Implement a smooth transition effect when hovering over a link. The link should change its color gradually over a duration of 0.5 seconds.
+
+Form Styling:
+Style a form with CSS to have a consistent layout. Add CSS properties to enhance the visual appeal of input fields, labels, and buttons.
+
+Image Carousel:
+Create an image carousel using HTML and CSS. Images should slide horizontally when navigating through them, and there should be navigation arrows on either side for the user to control the movement.
+
+Responsive Navigation Menu:
+Design a responsive navigation menu using CSS media queries. When viewed on smaller screens, the menu should collapse into a hamburger icon that reveals the navigation links when clicked.
