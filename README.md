@@ -1,11 +1,11 @@
-**Leveled Front-End Challenges with Solutions (HTML, CSS, JavaScript)**
-This repository offers a structured learning journey for front-end developers of various skill levels. It houses progressively difficult web development challenges organized into folders, alongside well-explained solutions I've crafted using HTML, CSS, Bootstrap, and JavaScript.
+**Leveled Front-End Challenges with Solutions (HTML, CSS)**
+This repository offers a structured learning journey for front-end developers of various skill levels. It houses progressively difficult web development challenges organized into folders alongside well-explained solutions I've crafted using HTML, CSS, Bootstrap, and JavaScript.
 
 **Key Features:**
 
 Skill Progression: Folders are meticulously structured to guide you from beginner concepts of HTML and CSS to advanced interactions with JavaScript and Bootstrap.
 Self-Paced Learning: Explore challenges at your own pace, revisit them for further practice, and solidify your understanding.
-Clear Solutions: Each solution explains the implemented HTML, CSS, Bootstrap classes, and JavaScript code.
+Clear Solutions: Each solution explains the implemented HTML and CSS.
 Focus on Responsiveness: Solutions prioritize creating responsive websites that adapt to different screen sizes.
 
 **Getting Started**
