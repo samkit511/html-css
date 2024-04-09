@@ -1,0 +1,10 @@
+Create a webpage with a heading that says "Hello, World!".
+Add a paragraph below the heading with some text of your choice.
+Create a list of three items using either an unordered or ordered list.
+Add an image to the webpage using the <img> tag.
+Style the heading to have a different font size and color.
+Center align the paragraph text.
+Add a border around the list items.
+Style the image to be smaller and aligned to the right.
+Create a simple form with a text input field and a submit button.
+Apply a background color to the entire webpage.
