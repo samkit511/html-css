@@ -11,7 +11,7 @@ Focus on Responsiveness: Solutions prioritize creating responsive websites that 
 **Getting Started**
 
 1.**Clone the Repository:** Use Git to clone this repository to your local machine
-git clone https://github.com/samkit511/html-css-javascript
+git clone https://github.com/samkit511/html-css
 
 2.**Choose a Level:** Select the folder that matches your current skill level (Level 1, Level 2, Level 3).
 
