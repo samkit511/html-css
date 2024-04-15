@@ -1,1 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body {
+    background-image: url("window11.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
 
+.util{
+    margin: 15px;
+    font-size: 40px;
+    color: aliceblue;    
+}
+.start{
+    height: 48px;
+    background-color: #1c1c1c;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    margin: 13px;
+}
+.lower{
+    color:aliceblue;
+    font-size: 25px;
+}
+
+.time{
+    position: absolute;
+    bottom: 0px ;
+    right: 250px;
+    width: 100%;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.lang{
+    font-size: 17px;
+}
+.time2{
+    right: 210px;
+    
+}
+.network{
+    right: 210px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    position: absolute;
+    bottom: 15px;
+    right: 125px;
+}
+.date{
+    right: 210px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 15px;
+    right: 50px;
+}
+.snooz{
+    right: 210px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
