@@ -1,0 +1,184 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #d9d9d9, #696969, #000);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1600px;
+  height: 960px;
+}
+.object-icon {
+  position: absolute;
+  top: 72px;
+  left: 632.9px;
+  width: 998.1px;
+  height: 841.4px;
+}
+.add-to-cart-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: var(--color-lightslategray);
+  width: 204px;
+  height: 59px;
+}
+.add-to-cart1 {
+  position: absolute;
+  top: 18px;
+  left: 31px;
+  font-weight: 600;
+  display: inline-block;
+  width: 141px;
+  height: 23px;
+}
+.add-to-cart {
+  position: absolute;
+  top: 720px;
+  left: 226px;
+  width: 204px;
+  height: 59px;
+  color: var(--color-black);
+}
+.h {
+  letter-spacing: 0.15em;
+}
+.i,
+.nike-air-max,
+.nothing-as-fly-container {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  font-weight: 500;
+}
+.nothing-as-fly-container {
+  top: 374px;
+  color: #a19ea6;
+  width: 536px;
+  height: 183px;
+}
+.i,
+.nike-air-max {
+  top: 277px;
+  font-size: 49px;
+  width: 567px;
+  height: 70px;
+}
+.nike-air-max {
+  top: 181px;
+  font-size: 36px;
+}
+.air-max,
+.content {
+  position: absolute;
+  width: 600px;
+}
+.air-max {
+  top: 0;
+  left: 0;
+  font-size: 128px;
+  display: inline-block;
+  font-weight: 800;
+  height: 154px;
+}
+.content {
+  top: 90px;
+  left: 227px;
+  height: 557px;
+  font-size: 24px;
+}
+.leftbar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightslategray);
+  width: 173px;
+  height: 960px;
+}
+.style-takes-over {
+  position: absolute;
+  top: 214px;
+  left: 101px;
+  letter-spacing: 1.25em;
+  font-weight: 800;
+  display: inline-block;
+  width: 532px;
+  height: 48px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.home,
+.leftbar {
+  position: absolute;
+  left: 0;
+}
+.leftbar {
+  top: 0;
+  width: 173px;
+  height: 960px;
+}
+.home {
+  width: 50px;
+  height: 23px;
+}
+.about,
+.collection,
+.home {
+  top: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.collection {
+  position: absolute;
+  left: 135px;
+  width: 99px;
+  height: 23px;
+}
+.about {
+  left: 319px;
+  width: 53px;
+}
+.about,
+.contact,
+.ribbon {
+  position: absolute;
+  height: 23px;
+}
+.contact {
+  top: 0;
+  left: 457px;
+  font-weight: 300;
+  display: inline-block;
+  width: 73px;
+}
+.ribbon {
+  top: 49px;
+  left: 522px;
+  width: 530px;
+  font-size: var(--font-size-mini);
+}
+.vector-icon {
+  position: absolute;
+  height: 4.17%;
+  width: 6.31%;
+  top: 5.52%;
+  right: 91.31%;
+  bottom: 90.31%;
+  left: 2.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
